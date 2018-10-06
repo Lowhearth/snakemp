@@ -13,4 +13,4 @@ Inside the desired folder:
 
 * git clone https://github.com/Lowhearth/snakemp
 * npm install 
-* npm app.js
+* node app.js
